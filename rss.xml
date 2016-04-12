@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SweetLovin]]></title>
         <description><![CDATA[SweetLovin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sweetlovin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 20:48:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 20:52:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sweetlovin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63b8563b-1a56-4b49-b3af-149a8d43d320.jpg">]]></description>
+            <link>https://thegrid.ai/sweetlovin/ac40f3bf-3740-4b30-bbd7-0d01a09c52ca/index.html</link>
+            <guid isPermaLink="false">ac40f3bf-3740-4b30-bbd7-0d01a09c52ca</guid>
+            <pubDate>Tue, 12 Apr 2016 20:52:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2778b5b6-11e8-4851-839e-bb3430da500c.jpg">]]></description>
-            <link>undefinede7834dfc-ff09-4f8e-92ad-2ac2e4a14980/index.html</link>
+            <link>https://thegrid.ai/sweetlovin/e7834dfc-ff09-4f8e-92ad-2ac2e4a14980/index.html</link>
             <guid isPermaLink="false">e7834dfc-ff09-4f8e-92ad-2ac2e4a14980</guid>
             <pubDate>Tue, 12 Apr 2016 20:48:06 GMT</pubDate>
         </item>
