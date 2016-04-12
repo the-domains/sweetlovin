@@ -1,0 +1,28 @@
+name: SweetLovin
+favicon: null
+layout_spectrum: 0.5633140658028424
+typography_spectrum: 0.5024336250498891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8984207636676729
+  lightness: 0.416114563588053
+  saturation: 0.6595910431351513
+  rhythmicContrast: 0.2772653785068542
+purpose: []
